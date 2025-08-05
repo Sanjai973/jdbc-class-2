@@ -9,7 +9,7 @@ public class AppCreate {
         // Database connection details
         String url = "jdbc:mysql://localhost:3306/sample"; // Change 'your_database' to your DB name
         String user = "root"; // Change to your MySQL username
-        String password = "root"; // Change to your MySQL password
+        String password = "root"; // Change to your MySQL password 
 
         // SQL statement to create a table
         String sql = "CREATE TABLE IF NOT EXISTS student (" +
